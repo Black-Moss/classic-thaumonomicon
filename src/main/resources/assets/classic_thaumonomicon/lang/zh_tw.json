@@ -1,0 +1,9 @@
+{
+  "classic_thaumonomicon.configuration.title": "經典秘術寶典",
+  "classic_thaumonomicon.configuration.section.classic.thaumonomicon.client.toml": "客戶端設置",
+  "classic_thaumonomicon.configuration.section.classic.thaumonomicon.client.toml.title": "經典秘術寶典：客戶端設置",
+  "classic_thaumonomicon.configuration.enabled": "經典研究地圖",
+  "classic_thaumonomicon.configuration.enabled.tooltip": "用神祕時代4風格的研究地圖取代Thaumaturge自身的研究地圖。",
+  "classic_thaumonomicon.configuration.classicBackgrounds": "每個類別對應一個星雲",
+  "classic_thaumonomicon.configuration.classicBackgrounds.tooltip": "像神祕時代4那樣在同一片紫色星雲上顯示所有Thaumaturge學科。邪術學和其他Mod的學科使用它們自己的背景。"
+}

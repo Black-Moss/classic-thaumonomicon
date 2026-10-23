@@ -1,0 +1,9 @@
+{
+  "classic_thaumonomicon.configuration.title": "经典魔导手册",
+  "classic_thaumonomicon.configuration.section.classic.thaumonomicon.client.toml": "客户端设置",
+  "classic_thaumonomicon.configuration.section.classic.thaumonomicon.client.toml.title": "经典魔导手册：客户端设置",
+  "classic_thaumonomicon.configuration.enabled": "经典研究地图",
+  "classic_thaumonomicon.configuration.enabled.tooltip": "用神秘时代4风格的研究地图取代Thaumaturge自身的研究地图。",
+  "classic_thaumonomicon.configuration.classicBackgrounds": "每个类别对应一个星云",
+  "classic_thaumonomicon.configuration.classicBackgrounds.tooltip": "像神秘时代4那样在同一片紫色星云上显示所有Thaumaturge学科。邪术学和其他Mod的学科使用它们自己的背景。"
+}
